@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/common/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Workshop2.Articles/Workshop2.Articles.csproj" />
+    <Project Path="src/Workshop2.Console/Workshop2.Console.csproj" />
+  </Folder>
+</Solution>
